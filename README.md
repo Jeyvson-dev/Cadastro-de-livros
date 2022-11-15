@@ -1,4 +1,4 @@
-Sistema simples para cadastro de livros em uma biblioteca sem utilização de banco de dados para treinar Programação Orietada a Objetos]
+Sistema simples para cadastro de livros em uma biblioteca sem utilização de banco de dados para treinar Programação Orientada a Objetos
 
 Modo de usar:
 
